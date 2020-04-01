@@ -96,7 +96,7 @@ class _Body extends State<BodyLogin>{
 									controller: passe,
     	                            autocorrect: true,
         	                        autofocus: false,
-            	                    obscureText: true,
+            	                    obscureText: false,
                 	                maxLines: 1,
                 	                cursorWidth: 2.0,
                     	            style: new TextStyle(
